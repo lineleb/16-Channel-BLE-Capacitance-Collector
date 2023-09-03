@@ -38,7 +38,8 @@ To set up and run this system, follow these steps:
 
 ## Usage
 
-For detailed instructions on using the system, refer to the documentation provided in this repository.
+- For detailed instructions on using the system, refer to the documentation provided in this repository.
+- Contect: lineleb8@gmail.com
 
 ## License
 
