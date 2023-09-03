@@ -36,9 +36,8 @@ To set up and run this system, follow these steps:
 - Android App: Source code for the Android app developed with APP Inventor.
 - Documentation: Additional documentation and resources.
 
-## Usage
+## Contect
 
-- For detailed instructions on using the system, refer to the documentation provided in this repository.
 - Contect: lineleb8@gmail.com
 
 ## License
