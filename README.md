@@ -1,8 +1,10 @@
 # Capacitive Foot Pressure Sensor Data Acquisition System
 
 This repository contains the source code and documentation for a capacitive foot pressure sensor data acquisition system. The system is designed around the ESP32 microcontroller and utilizes 4 MDC04 chips to collect data from 16 channels of capacitance values. The collected data is transmitted via Bluetooth Low Energy (BLE) to a mobile phone's host computer app, and simultaneously recorded in a CSV file stored in the ESP32's FLASH memory. This project is primarily intended for capacitive foot pressure sensor applications but can also be adapted for other use cases that require wireless capacitance data acquisition.
-![替代文本](https://github.com/lineleb/16-Channel-BLE-Capacitance-Collector/blob/main/APP/QQ%E5%9B%BE%E7%89%8720230903195338.jpg)
+
 ![替代文本](https://github.com/lineleb/16-Channel-BLE-Capacitance-Collector/blob/main/Hardware/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230903195636.jpg)
+![替代文本](https://github.com/lineleb/16-Channel-BLE-Capacitance-Collector/blob/main/APP/QQ%E5%9B%BE%E7%89%8720230903195338.jpg)
+
 ## Features
 
 - Utilizes ESP32 as the master controller.
